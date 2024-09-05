@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Marcela Yasmin Gonzalez Paillalef
 👀  I am an astrophysicist transitioning into data analytics, passionate about uncovering hidden patterns in data and turning them into actionable insights for decision-making. 
-Throughout my career in astrophysics, I developed strong analytical skills and a unique ability to work with large volumes of complex data—skills I now apply to data analysis.
+Throughout my career in astrophysics, I developed strong analytical skills and a unique ability to work with large volumes of complex data-skills I now apply to data analysis.
 
 ### 🎯 **From Astrophysics to Data Analyst**
 After several years of working in scientific research, I decided to follow my passion for data and its potential to solve real-world problems. This transition has been exciting, as I've found many parallels between scientific methods and data analysis.
